@@ -118,7 +118,7 @@ Download the stable-diffusion model checkpoint
 For more details, please refer [here](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original).
 
 **Dataset:** we release some of the datasets used in paper [here](https://www.cs.cmu.edu/~custom-diffusion/assets/data.zip). 
-Images taken from UnSplash are under [UnSplash LICENSE](https://unsplash.com/license). Moongate dataset can be downloaded from [here](https://github.com/odegeasslbc/FastGAN-pytorch).
+Images taken from UnSplash are under [UnSplash LICENSE](https://unsplash.com/license).
 
 **Models:** all our models can be downloaded from [here](https://www.cs.cmu.edu/~custom-diffusion/assets/models/). 
 
